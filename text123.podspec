@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'ceshi'
 
-  s.homepage         = 'https://github.com/18668088548@163.com/text123'
+  s.homepage         = 'https://github.com/GalenZHL/text123'
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '18668088548' => '18668088548@qq.com' }
