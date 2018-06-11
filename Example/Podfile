@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'text123_Example' do
+  pod 'text123', :path => '../'
+
+  target 'text123_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
